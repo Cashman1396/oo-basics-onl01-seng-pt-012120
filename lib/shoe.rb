@@ -8,4 +8,4 @@ class Shoe
   
   def cobble 
     @condition = "new"
-    
+    puts "You"
